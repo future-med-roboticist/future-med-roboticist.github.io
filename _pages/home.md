@@ -14,8 +14,7 @@ The application of robotic solutions to healthcare has soared in the past two de
 In addressing this fundamental challenge, researchers have considered several techniques which range from model-based to data-driven approaches. The former are based on mechanically accurate modelling, while the latter focus on information provided from data and are devoted to learning. 
 The workshop aims at bringing together researchers in the main fields of medical robotics to debate the importance of data with respect to modelling. The goal is to understand areas to explore and how researchers can combine these main approaches, towards improving the current practice in the study of medical robots.
 
-
-This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.org/), on <b>October 5, 2023</b> from **9:00 am** to **5:00 pm**. 
+This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.org/), on <b>October 5, 2023</b> from **9:00 am** to **5:00 pm**. Workshop schedule [here](https://medrob-workshop.github.io/schedule/).
 The workshop will cover two sessions of invited talks, and panel discussions. 
 
 Two-submissions for **Pioneers of Medical Robotics** will be featured where two stellar doctoral/post-doctoral candidates will present their bodies of work. **Conference registration** for the **Pioneers** is fully-funded by our Platinum Sponsors.
@@ -77,7 +76,7 @@ For any questions, please reach out to [info.medrob.workshop@gmail.com](mailto:i
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Giovanni Pittiglio" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://www.linkedin.com/in/giovanni-pittiglio/" img="/assets/img/people/gio.png" %}
-  {% include people_horizontal.html name="Yash Chitalia" affiliation="The University of Texas at Austin" url="https://yashchitalia.github.io" img="/assets/img/people/yash.jpg" %}
+  {% include people_horizontal.html name="Yash Chitalia" affiliation="The University of Louisville" url="https://yashchitalia.github.io" img="/assets/img/people/yash.jpg" %}
   {% include people_horizontal.html name="Animesh Garg" affiliation="University of Toronto" url="https://animesh.garg.tech/" img="/assets/img/people/animesh.jpg" %}
   {% include people_horizontal.html name="Xiaguang Dong" affiliation="Vanderbilt University" url="https://www.vanderbilt.edu/vise/visepeople/xiaoguang-dong/" img="/assets/img/people/xiaoguang.jpg" %}
 </div>
