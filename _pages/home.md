@@ -57,6 +57,8 @@ Submission window opens on **July 6, 2023**.
 
 **Submission Deadline is August 6, 2023**. 
 
+For any questions, please reach out to [info.medrob.workshop@gmail.com](mailto:info.medrob.workshop@gmail.com).
+
 # Poster Submissions
 Data vs. Model in Medical Robotics will feature poster presentations. 
 
