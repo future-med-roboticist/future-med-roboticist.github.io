@@ -25,8 +25,8 @@ nav_order: 1
 | 2:00 | **Nabil Simaan**: Miniature Continuum Robots for Intravascular Intervention: Modeling, Sensing, and Control Challenges |
 | 2:30 | **Elena De Momi**: Hybrid approaches for context awareness in surgical robotics |
 | 3:00 | Coffee Break and Award Session: Posters|
-| 3:30 | **Panel Discussion 1: ** Role of Computation and Design |
-| 4:15 | **Panel Discussion 2: ** Role of Model and Data |
+| 3:30 | **Panel Discussion 1:  Role of Computation and Design** |
+| 4:15 | **Panel Discussion 2:  Role of Model and Data** |
 | 5:00 | Closing Remarks and Award Session |
 {: .table}
 {: .table-striped}
