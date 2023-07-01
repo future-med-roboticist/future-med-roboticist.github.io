@@ -44,7 +44,7 @@ This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.
 
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Giovanni Pittiglio" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://www.linkedin.com/in/giovanni-pittiglio/" img="/assets/img/people/gio.jpg" %}
+  {% include people_horizontal.html name="Giovanni Pittiglio" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://www.linkedin.com/in/giovanni-pittiglio/" img="/assets/img/people/gio.png" %}
   {% include people_horizontal.html name="Yash Chitalia" affiliation="The University of Texas at Austin" url="https://yashchitalia.github.io" img="/assets/img/people/yash.jpg" %}
   {% include people_horizontal.html name="Animesh Garg" affiliation="University of Toronto" url="https://animesh.garg.tech/" img="/assets/img/people/animesh.jpg" %}
   {% include people_horizontal.html name="Xiaguang Dong" affiliation="Vanderbilt University" url="https://www.vanderbilt.edu/vise/visepeople/xiaoguang-dong/" img="/assets/img/people/xiaoguang.jpg" %}
