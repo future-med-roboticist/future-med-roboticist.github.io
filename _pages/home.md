@@ -22,7 +22,7 @@ This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Jessica Burgner-Kahrs" affiliation="University of Toronto" url="https://www.cs.toronto.edu/~jbk" img="/assets/img/people/jessica.jpg"  %}
   
-  {% include people_horizontal.html name="Zonghe Chua" affiliation="Case Western Reserve University" img="assets/img/people/zonghe.jpg" url="https://csed9.cwru.edu/about/school-directory/zonghe-chua" %}
+  {% include people_horizontal.html name="Zonghe Chua" affiliation="Case Western Reserve University" img="/assets/img/people/zonghe.jpg" url="https://csed9.cwru.edu/about/school-directory/zonghe-chua" %}
 
   {% include people_horizontal.html name="Margaret Coad" affiliation="University of Notre Dame" url="https://engineering.nd.edu/faculty/margaret-coad/" img="/assets/img/people/margaret.jpg" %}
 
@@ -34,7 +34,7 @@ This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.
   
   {% include people_horizontal.html name="Sheila Russo" affiliation="Boston University" url="https://www.bu.edu/eng/profile/sheila-russo-phd/" img="/assets/img/people/sheila.jpg" %}
 
-  {% include people_horizontal.html name="Nabil Simaan" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/nabil-simaan" img="assets/img/people/nabil.jpg" %}
+  {% include people_horizontal.html name="Nabil Simaan" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/nabil-simaan" img="/assets/img/people/nabil.jpg" %}
   
   {% include people_horizontal.html name="Michael Yip" affiliation="University of California San Diego" url="https://yip.eng.ucsd.edu/" img="/assets/img/people/michael.jpg" %}
 
@@ -47,5 +47,5 @@ This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.
   {% include people_horizontal.html name="Giovanni Pittiglio" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://www.linkedin.com/in/giovanni-pittiglio/" img="/assets/img/people/gio.jpg" %}
   {% include people_horizontal.html name="Yash Chitalia" affiliation="The University of Texas at Austin" url="https://yashchitalia.github.io" img="/assets/img/people/yash.jpg" %}
   {% include people_horizontal.html name="Animesh Garg" affiliation="University of Toronto" url="https://animesh.garg.tech/" img="/assets/img/people/animesh.jpg" %}
-  {% include people_horizontal.html name="Xiaguang Dong" affiliation="Vanderbilt University" url="https://www.vanderbilt.edu/vise/visepeople/xiaoguang-dong/" img="assets/img/people/xiaoguang.jpg" %}
+  {% include people_horizontal.html name="Xiaguang Dong" affiliation="Vanderbilt University" url="https://www.vanderbilt.edu/vise/visepeople/xiaoguang-dong/" img="/assets/img/people/xiaoguang.jpg" %}
 </div>
