@@ -14,7 +14,7 @@ The application of robotic solutions to healthcare has soared in the past two de
 In addressing this fundamental challenge, researchers have considered several techniques which range from model-based to data-driven approaches. The former are based on mechanically accurate modelling, while the latter focus on information provided from data and are devoted to learning. 
 The workshop aims at bringing together researchers in the main fields of medical robotics to debate the importance of data with respect to modelling. The goal is to understand areas to explore and how researchers can combine these main approaches, towards improving the current practice in the study of medical robots.
 
-This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.org/), on <b>October 5, 2023</b> from **9:00 am** to **5:00 pm**. Workshop schedule [here](https://medrob-workshop.github.io/schedule/).
+This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.org/), on <b>October 5, 2023</b> from <b>9:00 am</b> to <b>5:00 pm</b>. Workshop schedule [here](https://medrob-workshop.github.io/schedule/).
 
 Two-submissions for [**Pioneers of Medical Robotics**](# Pioneers of Medical Robotics ) will be featured where two stellar doctoral/post-doctoral candidates will present their bodies of work. **Conference registration** for the **Pioneers** is fully-funded by our Platinum Sponsors.
 
