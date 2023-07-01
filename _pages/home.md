@@ -18,9 +18,9 @@ The workshop aims at bringing together researchers in the main fields of medical
 This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.org/), on <b>October 5, 2023</b> from **9:00 am** to **5:00 pm**. 
 The workshop will cover two sessions of invited talks, and panel discussions. 
 
-Two-submissions for **Pioneers of Medical Robotics** will be featured where two stellar doctoral/post-doctoral candidates will feature their bodies of work.
+Two-submissions for **Pioneers of Medical Robotics** will be featured where two stellar doctoral/post-doctoral candidates will present their bodies of work. **Conference registration** for the **Pioneers** is fully-funded by our Platinum Sponsors.
 
-The workshop will also feature late breaking results as **Poster Submissions**. Scroll down for submission and award details.
+The workshop will also feature late breaking results as **Poster Submissions**. Scroll down for more details.
 
 # Speakers
 
