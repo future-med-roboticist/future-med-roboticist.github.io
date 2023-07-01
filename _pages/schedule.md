@@ -9,7 +9,7 @@ nav_order: 1
 
 | **Time (EST)**{: .h5} |  |
 | :-----:   | :----- |
-| 9:00 - 9:30 | **Introduction** |
+| 9:00 - 9:30 | **Introduction (Welcome remarks by Giovanni Pittiglio)** |
 | 9:00 - 10:30| **Session 1 - The role of simulation in medical robotics (Chair: Animesh Garg)**|
 | 9:00 | **Margaret Coad**: Modeling and Control of Soft Inflatable Robots |
 | 9:30 | **Michael Yip**: Visual-motor learning for surgical robot autonom |
@@ -27,7 +27,7 @@ nav_order: 1
 | 3:00 | Coffee Break and Award Session: Posters|
 | 3:30 | **Panel Discussion 1:  Role of Computation and Design** |
 | 4:15 | **Panel Discussion 2:  Role of Model and Data** |
-| 5:00 | Closing Remarks and Award Session |
+| 5:00 | **Closing Remarks and Award Session (Chair: Giovanni Pittiglio)** |
 {: .table}
 {: .table-striped}
 
