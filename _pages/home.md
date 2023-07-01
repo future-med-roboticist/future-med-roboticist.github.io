@@ -52,7 +52,7 @@ Data vs. Model in Medical Robotics will feature poster presentations. Late break
 Travel awards for a select few posters will be announced soon. Travel awards will be sponsored by our Platinum Sponsor [**Staubli**](https://www.staubli.com/global/en/robotics.html).
 
 Submission windows open for the Pioneers and late-breaking results on **July 6, 2023**. 
-Submission Deadline is **August 6, 2023**. 
+**Submission Deadline is August 6, 2023**. 
 
 For any questions, please reach out to [info.medrob.workshop@gmail.com](info.medrob.workshop@gmail.com).
 
