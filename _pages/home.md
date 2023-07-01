@@ -16,7 +16,7 @@ The workshop aims at bringing together researchers in the main fields of medical
 
 This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.org/), on <b>October 5, 2023</b> from <b>9:00 am</b> to <b>5:00 pm</b>. Workshop schedule [here](https://medrob-workshop.github.io/schedule/).
 
-Two-submissions for [**Pioneers of Medical Robotics**](#pioneers-of-medical-robotics) will be featured where two stellar doctoral/post-doctoral candidates will present their bodies of work. **Conference registration** for the **Pioneers** is fully-funded by our Platinum Sponsors.
+Two-submissions for [**Pioneers of Medical Robotics**](#pioneers-of-medical-robotics) will be featured where two stellar doctoral/post-doctoral candidates will present their bodies of work. <b>Conference registration for the Pioneers is fully-funded by our Platinum Sponsor Staubli Robotics</b>.
 
 The workshop will also feature late breaking results as [**Poster Submissions**](#poster-submissions). Scroll down for more details.
 
