@@ -15,7 +15,9 @@ In addressing this fundamental challenge, researchers have considered several te
 The workshop aims at bringing together researchers in the main fields of medical robotics to debate the importance of data with respect to modelling. The goal is to understand areas to explore and how researchers can combine these main approaches, towards improving the current practice in the study of medical robots.
 
 
-This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.org/), on <b>October 5, 2023</b> from **9:00 am** to **5:00 pm**. The workshop will cover two sessions of invited talks, pioneer talks, poster displays, and a panel discussion.
+This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.org/), on <b>October 5, 2023</b> from **9:00 am** to **5:00 pm**. 
+The workshop will cover two sessions of invited talks, and panel discussions. Two-submissions for **Pioneers of Medical Robotics** will be featured where two stellar doctoral/post-doctoral candidates will feature their bodies of work.
+The workshop will also feature late breaking results as **Poster Submissions**. Scroll down for submission and award details.
 
 # Speakers
 
@@ -41,6 +43,18 @@ This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.
 
 </div>
 
+# Pioneers of Medical Robotics 
+We introduce the **Pioneers of Medical Robotics** award as part of our workshop. Two rising-stars in medical robotics will be selected to give a 20+10 minute talk about their research in the workshop.
+Doctoral and Post-doctoral students are encouraged to submit a **1-page summary of their work and their CV** as **a single PDF document** to [this link](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/DMMR&referrer=%5BHomepage%5D(%2F)).
+**IROS23 Registration for the Pioneers** will be sponsored by our Platinum Sponsor [**Staubli**](https://www.staubli.com/global/en/robotics.html).
+# Poster Submissions
+Data vs. Model in Medical Robotics will feature poster presentations. Late breaking results may be submitted as a **3-page PDF** in the **IEEE conference format** at [this link](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/DMMR&referrer=%5BHomepage%5D(%2F)).
+Travel awards for a select few posters will be announced soon. Travel awards will be sponsored by our Platinum Sponsor [**Staubli**](https://www.staubli.com/global/en/robotics.html).
+
+Submission windows open for the Pioneers and late-breaking results on **July 6, 2023**. 
+Submission Deadline is **August 6, 2023**. 
+
+For any questions, please reach out to [info.medrob.workshop@gmail.com](info.medrob.workshop@gmail.com).
 
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
