@@ -13,7 +13,7 @@ nav_order: 1
 | 9:00 - 10:30| **Session 1 - The role of simulation in medical robotics (Chair: Animesh Garg)**|
 | 9:00 | **Margaret Coad**: Modeling and Control of Soft Inflatable Robots |
 | 9:30 | **Michael Yip**: Visual-motor learning for surgical robot autonom |
-| 10:00 | **Staubli Medical Robotics Pioneer Talk - 1**|
+| 10:00 | **Staubli Medical Robotics Pioneer Talks**|
 | 10:30 | Coffee Break and Poster Session|
 | 10:30 - 11:00| **Session 2 - Design of Medical Robots (Chair: Yash Chitalia)** |
 | 11:00 | **Jessica Burgner-Kahrs**: Accounting for the Intention, Form and Objective of Wearers of Assistive Devices during Ambulation through Peripheral Sensing and Predictive Modeling |
