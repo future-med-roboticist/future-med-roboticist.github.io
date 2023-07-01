@@ -47,7 +47,7 @@ The workshop will also feature late breaking results as **Poster Submissions**. 
 </div>
 
 # Pioneers of Medical Robotics 
-We introduce the **Pioneers of Medical Robotics** award as part of our workshop. Two rising-stars in medical robotics will be selected to give a 20+10 minute talk about their research in the workshop.
+We introduce the **Pioneers of Medical Robotics** award as part of our workshop. Two rising-stars in medical robotics will be selected to give a 12(+3) minute talk about their research in the workshop.
 
 Doctoral and Post-doctoral students are encouraged to submit a **1-page summary of their work and their CV** as **a single PDF document** to [this link](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/DMMR&referrer=%5BHomepage%5D(%2F)).
 
