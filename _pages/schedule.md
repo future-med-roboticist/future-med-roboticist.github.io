@@ -9,7 +9,7 @@ nav_order: 1
 
 | **Time (EST)**{: .h5} |  |
 | :-----:   | :----- |
-| 9:00 - 9:30 | **Introduction (Welcome remarks by Giovanni Pittiglio)** |
+| 9:00| **Introduction (Welcome remarks by Giovanni Pittiglio)** |
 | 9:00 - 10:30| **Session 1 - The role of simulation in medical robotics (Chair: Animesh Garg)**|
 | 9:00 | **Margaret Coad**: Modeling and Control of Soft Inflatable Robots |
 | 9:30 | **Michael Yip**: Visual-motor learning for surgical robot autonom |
