@@ -64,7 +64,7 @@ Late breaking results may be submitted as a **3-page PDF** in the **IEEE confere
 Travel awards for a select few posters will be announced soon. Travel awards will be sponsored by our Platinum Sponsor [**Staubli**](https://www.staubli.com/global/en/robotics.html).
 # Judge 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Amos Matsiko, PhD" affiliation="Editor, Science Robotics" url="https://www.science.org/content/page/science-robotics-editorial-and-advisory-boards" img="/assets/img/people/amos.jpeg" %}
+  {% include people_horizontal.html name="Amos Matsiko, PhD" affiliation="Editor, Science Robotics" url="https://www.science.org/content/page/science-robotics-editorial-and-advisory-boards" img="/assets/img/people/amos.jpg" %}
 </div>
 
 Submission window opens on **July 6, 2023**. 
