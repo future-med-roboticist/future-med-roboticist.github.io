@@ -33,14 +33,13 @@ The workshop will also feature late breaking results as [**Poster Submissions**]
 
   {% include people_horizontal.html name="Pierre E. Dupont" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://www.childrenshospital.org/research/researchers/pierre-e-dupont" img="/assets/img/people/pierre.jpg" %}
   
-  {% include people_horizontal.html name="Tania Morimoto" affiliation="University of California San Diego" url="https://iem.ucsd.edu/researchers/people/profiles/tania-morimoto.html" img="/assets/img/people/tania.png" %}
+  {% include people_horizontal.html name="Ron Alterovitz" affiliation="University of California San Diego" url="https://www.cs.unc.edu/~ron/" img="/assets/img/people/ron.png" %}
   
   {% include people_horizontal.html name="Sheila Russo" affiliation="Boston University" url="https://www.bu.edu/eng/profile/sheila-russo-phd/" img="/assets/img/people/sheila.jpg" %}
 
   {% include people_horizontal.html name="Nabil Simaan" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/nabil-simaan" img="/assets/img/people/nabil.jpg" %}
   
   {% include people_horizontal.html name="Michael Yip" affiliation="University of California San Diego" url="https://yip.eng.ucsd.edu/" img="/assets/img/people/michael.jpg" %}
-
 
 </div>
 
@@ -62,12 +61,15 @@ Data vs. Model in Medical Robotics will feature poster presentations.
 
 Late breaking results may be submitted as a **3-page PDF** in the **IEEE conference format** at [this link](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/DMMR&referrer=%5BHomepage%5D(%2F)).
 
-
 Travel awards for a select few posters will be announced soon. Travel awards will be sponsored by our Platinum Sponsor [**Staubli**](https://www.staubli.com/global/en/robotics.html).
+# Judge 
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Amos Matsiko, PhD" affiliation="Editor, Science Robotics" url="https://www.science.org/content/page/science-robotics-editorial-and-advisory-boards" img="/assets/img/people/amos.jpeg" %}
+</div>
 
 Submission window opens on **July 6, 2023**. 
 
-**Submission Deadline is August 6, 2023**. 
+**Submission Deadline is August 15, 2023 at 11:59 PM GMT**. 
 
 
 For any questions, please reach out to [info.medrob.workshop@gmail.com](mailto:info.medrob.workshop@gmail.com).
