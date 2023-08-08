@@ -52,7 +52,7 @@ Doctoral and Post-doctoral students are encouraged to submit a **1-page summary 
 
 Submission window opens on **July 6, 2023**. 
 
-**Submission Deadline is August 6, 2023**. 
+**Submission Deadline is August 15, 2023 at 11:59 PM GMT**. 
 
 For any questions, please reach out to [info.medrob.workshop@gmail.com](mailto:info.medrob.workshop@gmail.com).
 
