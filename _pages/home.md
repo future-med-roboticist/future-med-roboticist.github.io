@@ -33,7 +33,7 @@ The workshop will also feature late breaking results as [**Poster Submissions**]
 
   {% include people_horizontal.html name="Pierre E. Dupont" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://www.childrenshospital.org/research/researchers/pierre-e-dupont" img="/assets/img/people/pierre.jpg" %}
   
-  {% include people_horizontal.html name="Ron Alterovitz" affiliation="University of California San Diego" url="https://www.cs.unc.edu/~ron/" img="/assets/img/people/ron.png" %}
+  {% include people_horizontal.html name="Ron Alterovitz" affiliation="University of North Carolina at Chapel Hill" url="https://www.cs.unc.edu/~ron/" img="/assets/img/people/ron.png" %}
   
   {% include people_horizontal.html name="Sheila Russo" affiliation="Boston University" url="https://www.bu.edu/eng/profile/sheila-russo-phd/" img="/assets/img/people/sheila.jpg" %}
 
