@@ -12,7 +12,7 @@ nav_order: 1
 | 9:00| **Introduction (Welcome remarks by Giovanni Pittiglio)** |
 | 9:15 - 10:45| **Session 1 - The role of simulation in medical robotics (Chair: Animesh Garg)**|
 | 9:15 | **Ron Alterovitz**: Toward autonomous robotic navigation throughout the lung |
-| 9:45 | **Michael Yip**: Visual-motor learning for surgical robot autonom |
+| 9:45 | **Michael Yip**: Visual-motor learning for surgical robot autonomy |
 | 10:15 | **Margaret Coad**: Modeling and Control of Soft Inflatable Robots |
 | 10:45 | Coffee Break and Poster Session|
 | 11:00 - 12:30| **Session 2 - Design of Medical Robots (Chair: Yash Chitalia)** |
