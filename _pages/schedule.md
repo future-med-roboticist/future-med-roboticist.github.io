@@ -10,12 +10,12 @@ nav_order: 1
 | **Time (EST)**{: .h5} |  |
 | :-----:   | :----- |
 | 9:00| **Introduction (Welcome remarks by Giovanni Pittiglio)** |
-| 9:00 - 10:30| **Session 1 - The role of simulation in medical robotics (Chair: Animesh Garg)**|
-| 9:00 | **Ron Alterovitz**: Toward autonomous robotic navigation throughout the lung |
-| 9:30 | **Michael Yip**: Visual-motor learning for surgical robot autonom |
-| 10:00 | **Margaret Coad**: Modeling and Control of Soft Inflatable Robots |
-| 10:30 | Coffee Break and Poster Session|
-| 10:30 - 11:00| **Session 2 - Design of Medical Robots (Chair: Yash Chitalia)** |
+| 9:15 - 10:45| **Session 1 - The role of simulation in medical robotics (Chair: Animesh Garg)**|
+| 9:15 | **Ron Alterovitz**: Toward autonomous robotic navigation throughout the lung |
+| 9:45 | **Michael Yip**: Visual-motor learning for surgical robot autonom |
+| 10:15 | **Margaret Coad**: Modeling and Control of Soft Inflatable Robots |
+| 10:45 | Coffee Break and Poster Session|
+| 11:00 - 12:30| **Session 2 - Design of Medical Robots (Chair: Yash Chitalia)** |
 | 11:00 | **Jessica Burgner-Kahrs**: Accounting for the Intention, Form and Objective of Wearers of Assistive Devices during Ambulation through Peripheral Sensing and Predictive Modeling |
 | 11:30 | **Pierre E. Dupont**: Mechanics versus Learning in the Design and Control of Continuum Robots|
 | 12:00 | **Sheila Russo**: Smaller, smarter, softer medical robots|
