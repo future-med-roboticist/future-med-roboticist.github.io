@@ -44,17 +44,16 @@ The workshop will also feature late breaking results as [**Poster Submissions**]
 </div>
 
 # Pioneers of Medical Robotics 
-We introduce the **Pioneers of Medical Robotics** award as part of our workshop. Two rising-stars in medical robotics will be selected to give a 12(+3) minute talk about their research in the workshop.
+We introduce the **Pioneers of Medical Robotics** award as part of our workshop. Two rising-stars in medical robotics have been selected to give a 12(+3) minute talk about their research in the workshop.
+<div class="row row-cols-2 projects pt-3 pb-3">
 
-Doctoral and Post-doctoral students are encouraged to submit a **1-page summary of their work and their CV** as **a single PDF document** to [this link](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/DMMR&referrer=%5BHomepage%5D(%2F)).
-
+  {% include people_horizontal.html name="Alaa Eldin Abdelaal" affiliation="Stanford University" url="https://www.ece.ubc.ca/~aabdelaal " img="/assets/img/people/Alaa.png" %}
+  
+  {% include people_horizontal.html name="Shan Lin" affiliation="University of California San Diego" url="https://www.linkedin.com/in/shan-lin-6810b7140/" img="/assets/img/people/shan.png" %}
+</div>
 **IROS23 Registration for the Pioneers** will be sponsored by our Platinum Sponsor [**Staubli**](https://www.staubli.com/global/en/robotics.html).
 
-Submission window opens on **July 6, 2023**. 
 
-**Submission Deadline is August 15, 2023 at 11:59 PM GMT**. 
-
-For any questions, please reach out to [info.medrob.workshop@gmail.com](mailto:info.medrob.workshop@gmail.com).
 
 # Poster Submissions
 Data vs. Model in Medical Robotics will feature poster presentations. 
