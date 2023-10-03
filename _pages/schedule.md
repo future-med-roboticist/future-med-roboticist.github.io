@@ -9,7 +9,8 @@ nav_order: 1
 
 | **Time (EST)**{: .h5} |  |
 | :-----:   | :----- |
-| 8:30| **Introduction (Welcome remarks by Giovanni Pittiglio)** |
+| 8:30| **Registration - Coffee and Poster Setup Time** |
+| 8:45| **Introduction (Welcome remarks by Giovanni Pittiglio)** |
 | 9:00 - 10:45| **Session 1 - The role of simulation in medical robotics (Chair: Animesh Garg)**|
 | 9:15 | **Ron Alterovitz**: Toward autonomous robotic navigation throughout the lung |
 | 9:45 | **Michael Yip**: Visual-motor learning for surgical robot autonomy |
