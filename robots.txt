@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://medrob-workshop.github.io/sitemap.xml
+Sitemap: https://future-med-roboticist.github.io/sitemap.xml
