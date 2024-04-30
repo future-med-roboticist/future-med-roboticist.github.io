@@ -1,29 +1,22 @@
 ---
 layout: home
 title: Home
-home_title: <b>Data vs Model in Medical Robotics @ IROS 2023</b>
+home_title: <b>Training the Future Medical Roboticist @ ISMR 2024</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: A comparison of data-based and model-based approaches to medical robotics.
+description: 3.5 hours (Half Day) (3 hr session, 0.5 hr break)
 ---
 
 # Workshop Description
 
-The application of robotic solutions to healthcare has soared in the past two decades, spanning from rigid to flexible and fully soft robots which can aid in diagnosis and therapy inside the human body. Control, design, sensing and fabrication of these robots is based on understanding their behaviour and interaction with the anatomy; this is a major challenge and general approaches are hard to define. 
-In addressing this fundamental challenge, researchers have considered several techniques which range from model-based to data-driven approaches. The former are based on mechanically accurate modelling, while the latter focus on information provided from data and are devoted to learning. 
-The workshop aims at bringing together researchers in the main fields of medical robotics to debate the importance of data with respect to modelling. The goal is to understand areas to explore and how researchers can combine these main approaches, towards improving the current practice in the study of medical robots.
-
-This workshop will be an **full-day workshop** at [IROS 2023](https://ieee-iros.org/), on <b>October 5, 2023</b> from <b>8:45 am</b> to <b>5:00 pm</b> in <b>Room 251A</b>. Workshop schedule [here](https://medrob-workshop.github.io/schedule/).
-
-Two-submissions for [**Pioneers of Medical Robotics**](#pioneers-of-medical-robotics) will be featured where two stellar doctoral/post-doctoral candidates will present their bodies of work. <b>Conference registration for the Pioneers is fully-funded by our Platinum Sponsor Staubli Robotics</b>.
-
-The workshop will also feature late breaking results as [**Poster Submissions**](#poster-submissions). Scroll down for more details.
+When developing collaborative projects in medical robotics, there is a need for interdisciplinary understanding and practice for clinical interactions and effective problem selection. This workshop will present case studies and discuss developing effective clinical collaborations in robotics research and designing medical robotics education to create researchers that can tackle these interdisciplinary problems. 
+Examples of training for medical roboticists will be explored, including an NSF Traineeship for Advancement in Surgical Technologies (NSF NRT Program). Additionally, multiple case studies and recommendations for clinical collaborations will be discussed in talks. Finally, panels of  clinicians and faculty will discuss 1) challenges and opportunities in clinical collaboration and 2) how to become and develop the multidisciplinary skill set to join and perform research in medical robotics labs. 
+In discussions of curricula structure, how to organize interdisciplinary experiences for students and how to encourage medical collaborations in basic engineering research though program structure will be emphasized. Additionally, objective measures designed with external evaluators will be described. In regards to clinical collaborations, there will be talks, cases, and discussions on what clinicians are looking for in collaberation and how to find complementary objectives when performing collaborative research with clinicians.  For new and future researchers in the field, there will be discussion by faculty about their experiences in gaining these multidisciplinary skill sets and what skills they hope to see in the next generation of medical roboticists.
 
 # Speakers
-
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Jessica Burgner-Kahrs" affiliation="University of Toronto" url="https://www.cs.toronto.edu/~jbk" img="/assets/img/people/jessica.jpg"  %}
+  {% include people_horizontal.html name="Daniel Buckland, MD, PhD" affiliation="Assistant Professor, Department of Emergency Medicine, Duke Hospital" url="https://mems.duke.edu/faculty/daniel-buckland" img="/assets/img/people/daniel-buckland.jpg"  %}
   
   {% include people_horizontal.html name="Zonghe Chua" affiliation="Case Western Reserve University" img="/assets/img/people/zonghe.jpg" url="https://csed9.cwru.edu/about/school-directory/zonghe-chua" %}
 
