@@ -30,7 +30,7 @@ For new and future researchers in the field, there will be discussion by faculty
 
   {% include people_horizontal.html name="Patrick Codd" affiliation="Associate Professor, Department of Neurosurgery, Duke Hospital" url="https://mems.duke.edu/faculty/patrick-codd" img="/assets/img/people/patrick.jpg" %}
 
-  {% include people_horizontal.html name="Mark Draelos" affiliation="Politecnico di Milano" url="https://robotics.umich.edu/profile/mark-draelos/" img="/assets/img/people/mark.jpg" %}
+  {% include people_horizontal.html name="Mark Draelos" affiliation="Politecnico di Milano" url="https://robotics.umich.edu/profile/mark-draelos/" img="/assets/img/people/mark-2.jpg" %}
 
   {% include people_horizontal.html name="Brian Mann" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://mems.duke.edu/faculty/brian-mann" img="/assets/img/people/brian.jpg" %}
  
