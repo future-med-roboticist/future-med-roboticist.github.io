@@ -28,19 +28,15 @@ For new and future researchers in the field, there will be discussion by faculty
   
   {% include people_horizontal.html name="Yash Chitalia, PhD" affiliation="Assistant Professor, Department of Mechanical Engineering, University of Louisville" img="/assets/img/people/yash.jpg" url="https://yashchitalia.github.io/" %}
 
-  {% include people_horizontal.html name="Margaret Coad" affiliation="University of Notre Dame" url="https://engineering.nd.edu/faculty/margaret-coad/" img="/assets/img/people/margaret.jpg" %}
+  {% include people_horizontal.html name="Patrick Codd" affiliation="Associate Professor, Department of Neurosurgery, Duke Hospital" url="https://mems.duke.edu/faculty/patrick-codd" img="/assets/img/people/patrick.jpg" %}
 
-  {% include people_horizontal.html name="Elena De Momi" affiliation="Politecnico di Milano" url="https://www.deib.polimi.it/eng/people/details/172386" img="/assets/img/people/elena.png" %}
+  {% include people_horizontal.html name="Mark Draelos" affiliation="Politecnico di Milano" url="https://www.deib.polimi.it/eng/people/details/172386" img="/assets/img/people/elena.png" %}
 
-  {% include people_horizontal.html name="Pierre E. Dupont" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://www.childrenshospital.org/research/researchers/pierre-e-dupont" img="/assets/img/people/pierre.jpg" %}
+  {% include people_horizontal.html name="Brian Mann" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://www.childrenshospital.org/research/researchers/pierre-e-dupont" img="/assets/img/people/pierre.jpg" %}
   
-  {% include people_horizontal.html name="Ron Alterovitz" affiliation="University of North Carolina at Chapel Hill" url="https://www.cs.unc.edu/~ron/" img="/assets/img/people/ron.png" %}
+  {% include people_horizontal.html name="Siobhan Oca" affiliation="University of North Carolina at Chapel Hill" url="https://www.cs.unc.edu/~ron/" img="/assets/img/people/ron.png" %}
   
-  {% include people_horizontal.html name="Sheila Russo" affiliation="Boston University" url="https://www.bu.edu/eng/profile/sheila-russo-phd/" img="/assets/img/people/sheila.jpg" %}
-
-  {% include people_horizontal.html name="Nabil Simaan" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/nabil-simaan" img="/assets/img/people/nabil.jpg" %}
-  
-  {% include people_horizontal.html name="Michael Yip" affiliation="University of California San Diego" url="https://yip.eng.ucsd.edu/" img="/assets/img/people/michael.jpg" %}
+  {% include people_horizontal.html name="Ajmal Zemmar" affiliation="Assistant Professor, Department of Neurosurgery, University of Louisville" url="https://uoflhealth.org/provider/ajmal-zemmar-neurosurgery/" img="/assets/img/people/ajmal.jpeg" %}
 
 </div>
 
