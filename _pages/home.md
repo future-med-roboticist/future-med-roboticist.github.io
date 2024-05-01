@@ -30,13 +30,13 @@ For new and future researchers in the field, there will be discussion by faculty
 
   {% include people_horizontal.html name="Patrick Codd" affiliation="Associate Professor, Department of Neurosurgery, Duke Hospital" url="https://mems.duke.edu/faculty/patrick-codd" img="/assets/img/people/patrick.jpg" %}
 
-  {% include people_horizontal.html name="Mark Draelos" affiliation="Politecnico di Milano" url="https://www.deib.polimi.it/eng/people/details/172386" img="/assets/img/people/elena.png" %}
+  {% include people_horizontal.html name="Mark Draelos" affiliation="Politecnico di Milano" url="https://robotics.umich.edu/profile/mark-draelos/" img="/assets/img/people/mark.jpg" %}
 
-  {% include people_horizontal.html name="Brian Mann" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://www.childrenshospital.org/research/researchers/pierre-e-dupont" img="/assets/img/people/pierre.jpg" %}
+  {% include people_horizontal.html name="Brian Mann" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://mems.duke.edu/faculty/brian-mann" img="/assets/img/people/brian.jpg" %}
   
-  {% include people_horizontal.html name="Siobhan Oca" affiliation="University of North Carolina at Chapel Hill" url="https://www.cs.unc.edu/~ron/" img="/assets/img/people/ron.png" %}
+  {% include people_horizontal.html name="Siobhan Oca" affiliation="Assistant Professor of the Practice, Department of Mechanical Engineering and Materials Science, Duke University" url="https://mems.duke.edu/faculty/siobhan-oca" img="/assets/img/people/siobhan.jpg" %}
   
-  {% include people_horizontal.html name="Ajmal Zemmar" affiliation="Assistant Professor, Department of Neurosurgery, University of Louisville" url="https://uoflhealth.org/provider/ajmal-zemmar-neurosurgery/" img="/assets/img/people/ajmal.jpeg" %}
+  {% include people_horizontal.html name="Ajmal Zemmar" affiliation="Assistant Professor, Department of Neurosurgery, University of Louisville" url="https://uoflhealth.org/provider/ajmal-zemmar-neurosurgery/" img="/assets/img/people/ajmal.jpg" %}
 
 </div>
 
