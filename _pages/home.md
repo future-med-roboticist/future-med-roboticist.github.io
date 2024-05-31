@@ -36,7 +36,7 @@ For new and future researchers in the field, there will be discussion by faculty
  
   {% include people_horizontal.html name="Siobhan Oca" affiliation="Assistant Professor of the Practice, Department of Mechanical Engineering and Materials Science, Duke University" url="https://mems.duke.edu/faculty/siobhan-oca" img="/assets/img/people/siobhan.jpg" %}
   
-  {% include people_horizontal.html name="Ajmal Zemmar" affiliation="Assistant Professor, Department of Neurosurgery, University of Louisville" url="https://uoflhealth.org/provider/ajmal-zemmar-neurosurgery/" img="/assets/img/people/ajmal.jpg" %}
+  {% include people_horizontal.html name="Scott Silva" affiliation="Associate Professor, Director of Brachytherapy, University of Louisville" url="https://louisville.edu/medicine/departments/radiationoncology/faculty/dr-scott-silva-m-d-ph-d" img="/assets/img/people/ajmal.jpg" %}
 
 </div>
 
