@@ -3,7 +3,7 @@ layout: home
 title: Med Roboticist @ ISMR 24
 home_title: <b>Training the Future Medical Roboticist @ ISMR 2024</b>
 subtitle:
-nav_title: @ISMR2024
+nav_title: ISMR2024
 permalink: /ISMR2024
 description: 3.5 hours (Half Day) (3 hr session, 0.5 hr break)
 ---
