@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-home_title: <b>Training the Future Medical Roboticist @ ISMR 2024</b>
+home_title: <b>Training the Future Medical Roboticist @ ICRA 2025</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: 3.5 hours (Half Day) (3 hr session, 0.5 hr break)
+description: 8 hours (Full Day) (6 hr sessions, 2 hr breaks)
 ---
 
 # Workshop Description
