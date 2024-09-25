@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Med Roboticist @ ISMR 24
+title: ISMR2024
 home_title: <b>Training the Future Medical Roboticist @ ISMR 2024</b>
 subtitle:
 nav_title: ISMR2024
