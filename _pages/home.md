@@ -22,7 +22,7 @@ Additionally, objective measures designed with external evaluators will be descr
 In regards to clinical collaborations, there will be talks, cases, and discussions on what clinicians are looking for in collaberation and how to find complementary objectives when performing collaborative research with clinicians.  
 For new and future researchers in the field, there will be discussion by faculty about their experiences in gaining these multidisciplinary skill sets and what skills they hope to see in the next generation of medical roboticists.
 
-# Speakers
+# Poster Judge
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Melisa Yashinski, PhD" affiliation="Associate Editor, Science Robotics" url="https://www.science.org/journal/scirobotics" img="/assets/img/people/melisa.jpg"  %}
 </div>
