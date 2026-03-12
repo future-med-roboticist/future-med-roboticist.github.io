@@ -10,17 +10,14 @@ description: Pittsburgh Sept-2026, 8 hours (Full Day)
 
 # Workshop Description
 
-When developing collaborative projects in medical robotics, there is a need for interdisciplinary understanding and practice for clinical interactions and effective problem selection. 
-This workshop will present case studies and discuss developing effective clinical collaborations in robotics research and designing medical robotics education to create researchers that can tackle these interdisciplinary problems. 
+When developing collaborative projects in medical robotics, there is a need for interdisciplinary understanding and practice for clinical interactions and effective problem selection. This workshop will discuss developing effective clinical collaborations in robotics research and designing medical robotics education to future medical roboticists!
 
-Examples of training for medical roboticists will be explored, including an NSF Traineeship for Advancement in Surgical Technologies (NSF NRT Program). 
-Additionally, multiple case studies and recommendations for clinical collaborations will be discussed in talks. 
-Finally, panels of  clinicians and faculty will discuss 1) challenges and opportunities in clinical collaboration and 2) how to become and develop the multidisciplinary skill set to join and perform research in medical robotics labs. 
+Examples of training for medical roboticists will be explored, including an NSF Traineeship for Advancement in Surgical Technologies (NSF NRT Program). Additionally, multiple case studies and recommendations for clinical collaborations will be discussed in talks. Panels of  junior faculty will discuss 1) challenges and opportunities in clinical collaboration and 2) how to become and develop the multidisciplinary skill set to join and perform research in medical robotics labs. 
 
-In discussions of curricula structure, how to organize interdisciplinary experiences for students and how to encourage medical collaborations in basic engineering research though program structure will be emphasized. 
-Additionally, objective measures designed with external evaluators will be described. 
-In regards to clinical collaborations, there will be talks, cases, and discussions on what clinicians are looking for in collaberation and how to find complementary objectives when performing collaborative research with clinicians.  
-For new and future researchers in the field, there will be discussion by faculty about their experiences in gaining these multidisciplinary skill sets and what skills they hope to see in the next generation of medical roboticists.
+In discussions of curricula structure, how to organize interdisciplinary experiences for students and how to encourage medical collaborations in basic engineering research though program structure will be emphasized. For new and upcoming researchers in the field, this will be an exciting experience to learn and network with medical professionals and roboticists from around the world!
+
+## Posters
+Poster idea submission details will be announced in the future. Poster judge will be Dr. Melisa Yashinski from Science Robotics, and awards are sponsored by Staubli Robotics.
 
 # Judge
 <div class="row row-cols-2 projects pt-3 pb-3">
