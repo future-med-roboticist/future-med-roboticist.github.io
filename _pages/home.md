@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-home_title: <b>Training the Future Medical Roboticist @ ICRA 2025</b>
+home_title: <b>Training the Future Medical Roboticist @ IROS 2026</b>
 subtitle:
 nav_title: Home
 permalink: /
