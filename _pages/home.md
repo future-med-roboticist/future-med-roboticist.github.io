@@ -37,7 +37,7 @@ For new and future researchers in the field, there will be discussion by faculty
 
   {% include people_horizontal.html name="Pierre Dupont" affiliation="Staff Scientist, Chief, Pediatric Cardiac Bioengineering, Boston Children's Hospital, Professor of Surgery, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
-  {% include people_horizontal.html name="Louise Jackson" affiliation="Assistant Professor of Surgery, Medical Student Clerkship Director in the Department of Surgery, Duke University" url="https://surgery.duke.edu/profile/katharine-louise-jackson" img="/assets/img/people/louise.jpg" %}
+  {% include people_horizontal.html name="Louise Jackson" affiliation="Assistant Professor of Surgery, Duke University" url="https://surgery.duke.edu/profile/katharine-louise-jackson" img="/assets/img/people/louise.jpg" %}
 
   {% include people_horizontal.html name="Tania Morimoto" affiliation="Associate Professor, Mechanical and Aerospace Engineering, University of California, San Diego" url="https://jacobsschool.ucsd.edu/people/profile/tania-morimoto" img="/assets/img/people/tania.jpg" %}
  
