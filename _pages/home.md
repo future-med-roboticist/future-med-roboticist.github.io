@@ -5,7 +5,7 @@ home_title: <b>Training the Future Medical Roboticist @ IROS 2026</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: Pittsburg Sept-2026, 8 hours (Full Day) 
+description: Pittsburgh Sept-2026, 8 hours (Full Day) 
 ---
 
 # Workshop Description
@@ -22,7 +22,7 @@ Additionally, objective measures designed with external evaluators will be descr
 In regards to clinical collaborations, there will be talks, cases, and discussions on what clinicians are looking for in collaberation and how to find complementary objectives when performing collaborative research with clinicians.  
 For new and future researchers in the field, there will be discussion by faculty about their experiences in gaining these multidisciplinary skill sets and what skills they hope to see in the next generation of medical roboticists.
 
-# Poster Judge
+# Judge
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Melisa Yashinski, PhD" affiliation="Associate Editor, Science Robotics" url="https://www.science.org/journal/scirobotics" img="/assets/img/people/melisa.jpg"  %}
 </div>
@@ -35,7 +35,7 @@ For new and future researchers in the field, there will be discussion by faculty
 
   {% include people_horizontal.html name="Mark Draelos" affiliation="Assistant Professor in Robotics and Ophthamology at University of Michigan" url="https://robotics.umich.edu/profile/mark-draelos/" img="/assets/img/people/mark-2.jpg" %}
 
-  {% include people_horizontal.html name="Pierre Dupont, PhD" affiliation="Professor, Department of Surgery, Boston Children's Hospital and Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
+  {% include people_horizontal.html name="Pierre Dupont, PhD" affiliation="Professor, Boston Children's, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
   {% include people_horizontal.html name="Tania Morimoto" affiliation="University of California, San Diego" url="https://jacobsschool.ucsd.edu/people/profile/tania-morimoto" img="/assets/img/people/tania.jpg" %}
  
