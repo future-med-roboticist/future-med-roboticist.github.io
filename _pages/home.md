@@ -16,6 +16,8 @@ Examples of training for medical roboticists will be explored, including an NSF 
 
 In discussions of curricula structure, how to organize interdisciplinary experiences for students and how to encourage medical collaborations in basic engineering research though program structure will be emphasized. For new and upcoming researchers in the field, this will be an exciting experience to learn and network with medical professionals and roboticists from around the world!
 
+Join us for a full day of exciting talks at the cutting edge of medical robotics!
+
 ## Posters
 Poster idea submission details will be announced in the future. Poster judge will be Dr. Melisa Yashinski from Science Robotics, and awards are sponsored by Staubli Robotics.
 
