@@ -37,6 +37,8 @@ For new and future researchers in the field, there will be discussion by faculty
 
   {% include people_horizontal.html name="Pierre Dupont, PhD" affiliation="Professor, Boston Children's, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
+  {% include people_horizontal.html name="Louise Jackson" affiliation="Duke University" url="https://surgery.duke.edu/profile/katharine-louise-jackson" img="/assets/img/people/louise.jpg" %}
+
   {% include people_horizontal.html name="Tania Morimoto" affiliation="University of California, San Diego" url="https://jacobsschool.ucsd.edu/people/profile/tania-morimoto" img="/assets/img/people/tania.jpg" %}
  
   {% include people_horizontal.html name="Bradley Nelson" affiliation="ETH Zurich" url="https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html" img="/assets/img/people/brad.jpg" %}
