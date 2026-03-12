@@ -5,7 +5,7 @@ home_title: <b>Training the Future Medical Roboticist @ IROS 2026</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: 8 hours (Full Day) (6 hr sessions, 2 hr breaks)
+description: Pittsburg Sept-2026, 8 hours (Full Day) 
 ---
 
 # Workshop Description
@@ -44,5 +44,8 @@ For new and future researchers in the field, there will be discussion by faculty
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Siobhan Oca" affiliation="Duke University" url="https://mems.duke.edu/faculty/siobhan-oca" img="/assets/img/people/siobhan.jpg" %}
-  {% include people_horizontal.html name="Yash Chitalia" affiliation="The University of Louisville" url="https://yashchitalia.github.io" img="/assets/img/people/yash.jpg" %}
+  {% include people_horizontal.html name="Yash Chitalia" affiliation="The University of Louisville" url="https://www.heart-lab.io/" img="/assets/img/people/yash.jpg" %}
+  {% include people_horizontal.html name="Ann Majewicz Fey" affiliation="University of Texas - Austin" url="https://www.me.utexas.edu/people/faculty-directory/amfey" img="/assets/img/people/ann.jpg" %}
+  {% include people_horizontal.html name="Behnam Moradkhani" affiliation="The University of Louisville" url="https://www.heart-lab.io/" img="/assets/img/people/behnam.jpg" %}
+  {% include people_horizontal.html name="Kento Yamamoto" affiliation="Duke University" url="https://www.heart-lab.io/" img="/assets/img/people/kento.jpeg" %}
 </div>
