@@ -29,7 +29,7 @@ For new and future researchers in the field, there will be discussion by faculty
 
 # Speakers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Daniel Buckland, MD, PhD" affiliation="Assistant Professor, Department of Emergency Medicine, Duke Hospital" url="https://mems.duke.edu/faculty/daniel-buckland" img="/assets/img/people/daniel-buckland.jpg"  %}
+  {% include people_horizontal.html name="Daniel Buckland, MD, PhD" affiliation="Assistant Professor, Department of Emergency Medicine and Mechanical Engineering, University of Wisconsin-Madison" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
 
   {% include people_horizontal.html name="Patrick Codd" affiliation="Associate Professor, Department of Neurosurgery, Duke Hospital" url="https://mems.duke.edu/faculty/patrick-codd" img="/assets/img/people/patrick.jpg" %}
 
