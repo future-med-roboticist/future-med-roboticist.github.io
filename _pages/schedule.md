@@ -17,7 +17,7 @@ nav_order: 1
 | 10:00 | **Dan Buckland, MD**: TBD |
 | 10:30 | **Louise Jackson, MD**: TBD|
 | 11:00 | Coffee Break with Posters |
-| 11:15 | **Panel:**: How to Approach a Surgeon: A Clinician's Perspective on Medical Robotics Research |
+| 11:15 | **Panel:** How to Approach a Surgeon: A Clinician's Perspective on Medical Robotics Research |
 | 12:00 | Lunch Break and Posters|
 | 13:00 | **Pierre Dupont, PhD**: TBD|
 | 13:30 | **Patric Codd, MD**: TBD|
@@ -25,7 +25,7 @@ nav_order: 1
 | 14:30 | **Tania Morimoto, PhD**: TBD|
 | 15:00 | **Mark Draelos, MD PhD**: TBD|
 | 15:30 | Coffee Break and Award Ceremony |
-| 15:45 | **Panel:**: New Experiences in Clinical Collaborations: Junior Faculty in Medical Robotics |
+| 15:45 | **Panel:** New Experiences in Clinical Collaborations: Junior Faculty in Medical Robotics |
 | 16:30 |  **Closing remarks by organizers**|
 {: .table}
 {: .table-striped}
