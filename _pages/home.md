@@ -37,9 +37,11 @@ For new and future researchers in the field, there will be discussion by faculty
 
   {% include people_horizontal.html name="Pierre Dupont, PhD" affiliation="Professor, Department of Surgery, Boston Children's Hospital and Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
-  {% include people_horizontal.html name="Brian Mann" affiliation="Professor in Mechanical Engineering and Materials Science, Duke University" url="https://mems.duke.edu/faculty/brian-mann" img="/assets/img/people/brian.jpg" %}
+  {% include people_horizontal.html name="Tania Morimoto" affiliation="University of California, San Diego" url="https://jacobsschool.ucsd.edu/people/profile/tania-morimoto" img="/assets/img/people/tania.jpg" %}
  
-  {% include people_horizontal.html name="Siobhan Oca" affiliation="Assistant Professor of the Practice, Department of Mechanical Engineering and Materials Science, Duke University" url="https://mems.duke.edu/faculty/siobhan-oca" img="/assets/img/people/siobhan.jpg" %}
+  {% include people_horizontal.html name="Bradley Nelson" affiliation="ETH Zurich" url="https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html" img="/assets/img/people/brad.jpg" %}
+
+  {% include people_horizontal.html name="Simone Schurle-Finke" affiliation="ETH Zurich" url="https://hest.ethz.ch/en/department/people/professors/persdetail.MTY3MjM5.TGlzdC85Miw5ODYyMzU0MDI=.html" img="/assets/img/people/simone.jpg" %}
   
   {% include people_horizontal.html name="Scott Silva" affiliation="Associate Professor, Director of Brachytherapy, University of Louisville" url="https://louisville.edu/medicine/departments/radiationoncology/faculty/dr-scott-silva-m-d-ph-d" img="/assets/img/people/scott.jpg" %}
 
