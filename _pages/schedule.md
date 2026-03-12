@@ -10,16 +10,22 @@ nav_order: 1
 | **Time (EST)**{: .h5} |  |
 | :-----:   | :----- |
 | 8:30| **Registration - Coffee and Poster Setup Time** |
-| 8:45| **Introduction (Welcome remarks by Siobhan Oca)** |
-| 9:15 | **Daniel Buckland, MD, PhD**: Creating Constructive Collaborations with Clinicians in Medical Robotics |
-| 9:30 | **Yash Chitalia, PhD, Scott Silva, MD, PhD**: Setting up Interdisciplinary Collaborations between Early-stage Medical Roboticists and Clinicians: A Case-Study |
-| 9:45 | **Patrick Codd, MD**: From Bench to Bedside - Examples of Research and Translational Medical Robotic Collaborations in Neurosurgery |
-| 10:00 | **Panel: How to foster Clinical Collaborations in Medical Robotics Research and Training**|
-| 10:45 | **Coffee Break** |
-| 11:00 | **Brian Mann, PhD**: Medical Robotics Training Model Case Study: NSF Traineeship in the Advancement of Surgical Technologies (TAST) at Duke |
-| 11:15 | **Mark Draelos, MD, PhD**: To Medical School and Back Again: A Journey of Lasers, Eyes, and Robots|
-| 11:30 | **Panel:**: Experiences and Insights training Medical Roboticists |
-| 12:15 | Lunch Break |
+| 8:45| **Introduction (Welcome remarks by organizers)** |
+| 9:00 | **Simone Schurle-Finke, PhD**: TBD |
+| 9:30 | **Pietro Valdastri, PhD**: TBD|
+| 10:00 | **Scott Silva, MD PhD**: TBD |
+| 10:30 | **Dan Buckland, MD**: TBD |
+| 11:00 | Coffee Break with Posters |
+| 11:15 | **Panel:**: How to Approach a Surgeon: A Clinician's Perspective on Medical Robotics Research |
+| 12:00 | Lunch Break and Posters|
+| 12:30 | **Louise Jackson, MD**: TBD|
+| 13:00 | **Pierre Dupont, PhD**: TBD|
+| 13:30 | **Bradley Nelson, PhD**: TBD|
+| 13:30 | **Patric Codd, MD**: TBD|
+| 15:00 | **Mark Draelos, MD PhD**: TBD|
+| 15:30 | Coffee Break and Award Ceremony |
+| 15:45 | **Panel:**: New Experiences in Clinical Collaborations: Junior Faculty in Medical Robotics |
+| 15:30 |  **Closing remarks by organizers**|
 {: .table}
 {: .table-striped}
 
