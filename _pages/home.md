@@ -24,6 +24,11 @@ For new and future researchers in the field, there will be discussion by faculty
 
 # Speakers
 <div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Melisa Yashinski, PhD" affiliation="Associate Editor, Science Robotics" url="https://www.science.org/journal/scirobotics" img="/assets/img/people/melisa.jpg"  %}
+</div>
+
+# Speakers
+<div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Daniel Buckland, MD, PhD" affiliation="Assistant Professor, Department of Emergency Medicine, Duke Hospital" url="https://mems.duke.edu/faculty/daniel-buckland" img="/assets/img/people/daniel-buckland.jpg"  %}
   
   {% include people_horizontal.html name="Yash Chitalia, PhD" affiliation="Assistant Professor, Department of Mechanical Engineering, University of Louisville" img="/assets/img/people/yash.jpg" url="https://yashchitalia.github.io/" %}
