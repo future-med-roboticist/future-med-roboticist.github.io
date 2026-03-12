@@ -35,7 +35,7 @@ For new and future researchers in the field, there will be discussion by faculty
 
   {% include people_horizontal.html name="Mark Draelos" affiliation="Assistant Professor in Robotics and Ophthamology at University of Michigan" url="https://robotics.umich.edu/profile/mark-draelos/" img="/assets/img/people/mark-2.jpg" %}
 
-  {% include people_horizontal.html name="Pierre Dupont, PhD" affiliation="Professor, Department of Surgery, Boston Children's Hospital and Harvard Medical School" img="/assets/img/people/pierre.jpg" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
+  {% include people_horizontal.html name="Pierre Dupont, PhD" affiliation="Professor, Department of Surgery, Boston Children's Hospital and Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
   {% include people_horizontal.html name="Brian Mann" affiliation="Professor in Mechanical Engineering and Materials Science, Duke University" url="https://mems.duke.edu/faculty/brian-mann" img="/assets/img/people/brian.jpg" %}
  
