@@ -29,21 +29,21 @@ For new and future researchers in the field, there will be discussion by faculty
 
 # Speakers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Daniel Buckland, MD, PhD" affiliation="Assistant Professor, Department of Emergency Medicine and Mechanical Engineering, University of Wisconsin-Madison" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
+  {% include people_horizontal.html name="Daniel Buckland, MD, PhD" affiliation="Associate Professor, Department of Emergency Medicine and Mechanical Engineering, University of Wisconsin-Madison" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
 
   {% include people_horizontal.html name="Patrick Codd" affiliation="Associate Professor, Department of Neurosurgery, Duke Hospital" url="https://mems.duke.edu/faculty/patrick-codd" img="/assets/img/people/patrick.jpg" %}
 
   {% include people_horizontal.html name="Mark Draelos" affiliation="Assistant Professor in Robotics and Ophthamology at University of Michigan" url="https://robotics.umich.edu/profile/mark-draelos/" img="/assets/img/people/mark-2.jpg" %}
 
-  {% include people_horizontal.html name="Pierre Dupont, PhD" affiliation="Professor, Boston Children's, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
+  {% include people_horizontal.html name="Pierre Dupont, PhD" affiliation="Staff Scientist, Chief, Pediatric Cardiac Bioengineering, Boston Children's Hospital, Professor of Surgery, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
-  {% include people_horizontal.html name="Louise Jackson" affiliation="Duke University" url="https://surgery.duke.edu/profile/katharine-louise-jackson" img="/assets/img/people/louise.jpg" %}
+  {% include people_horizontal.html name="Louise Jackson" affiliation="Assistant Professor of Surgery, Medical Student Clerkship Director in the Department of Surgery, Duke University" url="https://surgery.duke.edu/profile/katharine-louise-jackson" img="/assets/img/people/louise.jpg" %}
 
-  {% include people_horizontal.html name="Tania Morimoto" affiliation="University of California, San Diego" url="https://jacobsschool.ucsd.edu/people/profile/tania-morimoto" img="/assets/img/people/tania.jpg" %}
+  {% include people_horizontal.html name="Tania Morimoto" affiliation="Associate Professor, Mechanical and Aerospace Engineering, University of California, San Diego" url="https://jacobsschool.ucsd.edu/people/profile/tania-morimoto" img="/assets/img/people/tania.jpg" %}
  
-  {% include people_horizontal.html name="Bradley Nelson" affiliation="ETH Zurich" url="https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html" img="/assets/img/people/brad.jpg" %}
+  {% include people_horizontal.html name="Bradley Nelson" affiliation=" Professor of Robotics and Intelligent Systems, ETH Zurich" url="https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html" img="/assets/img/people/brad.jpg" %}
 
-  {% include people_horizontal.html name="Simone Schurle-Finke" affiliation="ETH Zurich" url="https://hest.ethz.ch/en/department/people/professors/persdetail.MTY3MjM5.TGlzdC85Miw5ODYyMzU0MDI=.html" img="/assets/img/people/simone.jpg" %}
+  {% include people_horizontal.html name="Simone Schurle-Finke" affiliation="Associate Professor at the Department of Health Sciences and Technology, ETH Zurich" url="https://hest.ethz.ch/en/department/people/professors/persdetail.MTY3MjM5.TGlzdC85Miw5ODYyMzU0MDI=.html" img="/assets/img/people/simone.jpg" %}
   
   {% include people_horizontal.html name="Scott Silva" affiliation="Associate Professor, Director of Brachytherapy, University of Louisville" url="https://louisville.edu/medicine/departments/radiationoncology/faculty/dr-scott-silva-m-d-ph-d" img="/assets/img/people/scott.jpg" %}
 
