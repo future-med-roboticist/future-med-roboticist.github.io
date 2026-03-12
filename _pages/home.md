@@ -35,7 +35,7 @@ For new and future researchers in the field, there will be discussion by faculty
 
   {% include people_horizontal.html name="Mark Draelos" affiliation="Assistant Professor in Robotics and Ophthamology, University of Michigan" url="https://robotics.umich.edu/profile/mark-draelos/" img="/assets/img/people/mark-2.jpg" %}
 
-  {% include people_horizontal.html name="Pierre Dupont" affiliation="Staff Scientist, Chief, Pediatric Cardiac Bioengineering, Boston Children's Hospital, Professor of Surgery, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
+  {% include people_horizontal.html name="Pierre Dupont" affiliation="Staff Scientist, Professor of Surgery, Boston Children's Hospital, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
   {% include people_horizontal.html name="Louise Jackson" affiliation="Assistant Professor of Surgery, Duke University" url="https://surgery.duke.edu/profile/katharine-louise-jackson" img="/assets/img/people/louise.jpg" %}
 
