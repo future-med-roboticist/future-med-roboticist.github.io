@@ -30,6 +30,8 @@ Poster idea submission details will be announced in the future. Poster judge wil
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Daniel Buckland, MD, PhD" affiliation="Associate Professor, Department of Emergency Medicine, University of Wisconsin-Madison" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
 
+  {% include people_horizontal.html name="Pietro Valdastri,PhD" affiliation="Chair in Robotics & Autonomous Systems, University of Leeds" url="https://eps.leeds.ac.uk/electronic-engineering/staff/863/professor-pietro-valdastri" img="/assets/img/people/pietro.jpg"  %}
+
   {% include people_horizontal.html name="Patrick Codd" affiliation="Associate Professor, Department of Neurosurgery, Duke Hospital" url="https://mems.duke.edu/faculty/patrick-codd" img="/assets/img/people/patrick.jpg" %}
 
   {% include people_horizontal.html name="Mark Draelos" affiliation="Assistant Professor in Robotics and Ophthamology, University of Michigan" url="https://robotics.umich.edu/profile/mark-draelos/" img="/assets/img/people/mark-2.jpg" %}
