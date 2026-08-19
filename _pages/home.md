@@ -18,12 +18,13 @@ In discussions of curricula structure, how to organize interdisciplinary experie
 
 Join us for a full day of exciting talks at the cutting edge of medical robotics!
 
-## Call for Abstract Submission!
+## Call for Extended Abstract Submission!
 We welcome submissions of extended abstracts describing published, recently accepted, or unpublished work relevant to medical robotics and the themes of the workshop. Submissions may present original research, educational initiatives, emerging technologies, or other work that contributes to the training and development of future medical roboticists.
 
 Extended abstracts must be **3 pages** in length and prepared using the **standard IEEE conference format**.
 
 **Submission Deadline**: September 4, 2026
+
 **Acceptance Notification**: September 15, 2026
 
 Topics of interest include, but are not limited to:
@@ -35,6 +36,7 @@ Topics of interest include, but are not limited to:
 - Clinical Translation, Safety, and the Future of Surgical Robotics
 
 Accepted abstracts will be presented as poster presentations during the workshop.
+
 Submission Link: Coming Soon!
 
 # Judge
@@ -44,25 +46,18 @@ Submission Link: Coming Soon!
 
 # Speakers
 <div class="row row-cols-2 projects pt-3 pb-3">
+
+  {% include people_horizontal.html name="Simone Schurle-Finke" affiliation="Associate Professor at the Department of Health Sciences and Technology, ETH Zurich" url="https://hest.ethz.ch/en/department/people/professors/persdetail.MTY3MjM5.TGlzdC85Miw5ODYyMzU0MDI=.html" img="/assets/img/people/simone.jpg" %}
+    
   {% include people_horizontal.html name="Daniel Buckland, MD, PhD" affiliation="Associate Professor, Department of Emergency Medicine, University of Wisconsin-Madison" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
-
-  {% include people_horizontal.html name="Pietro Valdastri,PhD" affiliation="Chair in Robotics & Autonomous Systems, University of Leeds" url="https://eps.leeds.ac.uk/electronic-engineering/staff/863/professor-pietro-valdastri" img="/assets/img/people/pietro.jpg"  %}
-
-  {% include people_horizontal.html name="Patrick Codd" affiliation="Associate Professor, Department of Neurosurgery, Duke Hospital" url="https://mems.duke.edu/faculty/patrick-codd" img="/assets/img/people/patrick.jpg" %}
-
-  {% include people_horizontal.html name="Mark Draelos" affiliation="Assistant Professor in Robotics and Ophthamology, University of Michigan" url="https://robotics.umich.edu/profile/mark-draelos/" img="/assets/img/people/mark-2.jpg" %}
 
   {% include people_horizontal.html name="Pierre Dupont" affiliation="Staff Scientist, Professor of Surgery, Boston Children's Hospital, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
   {% include people_horizontal.html name="Louise Jackson" affiliation="Assistant Professor of Surgery, Duke University" url="https://surgery.duke.edu/profile/katharine-louise-jackson" img="/assets/img/people/louise.jpg" %}
 
-  {% include people_horizontal.html name="Tania Morimoto" affiliation="Associate Professor, Mechanical and Aerospace Engineering, University of California, San Diego" url="https://jacobsschool.ucsd.edu/people/profile/tania-morimoto" img="/assets/img/people/tania.jpg" %}
- 
-  {% include people_horizontal.html name="Bradley Nelson" affiliation=" Professor of Robotics and Intelligent Systems, ETH Zurich" url="https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html" img="/assets/img/people/brad.jpg" %}
-
-  {% include people_horizontal.html name="Simone Schurle-Finke" affiliation="Associate Professor at the Department of Health Sciences and Technology, ETH Zurich" url="https://hest.ethz.ch/en/department/people/professors/persdetail.MTY3MjM5.TGlzdC85Miw5ODYyMzU0MDI=.html" img="/assets/img/people/simone.jpg" %}
-  
   {% include people_horizontal.html name="Scott Silva" affiliation="Associate Professor, Director of Brachytherapy, University of Louisville" url="https://louisville.edu/medicine/departments/radiationoncology/faculty/dr-scott-silva-m-d-ph-d" img="/assets/img/people/scott.jpg" %}
+
+  {% include people_horizontal.html name="Jaydev P. Desai" affiliation="Associate Director, Institute for Medical and Intelligent Machines, Director of Georgia Center for Medical Robotics" url="https://people.research.gatech.edu/jaydev-desai" img="/assets/img/people/jaydev_desai.jpg" %}
 
 </div>
 
