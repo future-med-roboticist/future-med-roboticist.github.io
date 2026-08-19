@@ -48,16 +48,24 @@ Submission Link: Coming Soon!
 <div class="row row-cols-2 projects pt-3 pb-3">
 
   {% include people_horizontal.html name="Simone Schurle-Finke" affiliation="Associate Professor at the Department of Health Sciences and Technology, ETH Zurich" url="https://hest.ethz.ch/en/department/people/professors/persdetail.MTY3MjM5.TGlzdC85Miw5ODYyMzU0MDI=.html" img="/assets/img/people/simone.jpg" %}
-    
-  {% include people_horizontal.html name="Daniel Buckland, MD, PhD" affiliation="Associate Professor, Department of Emergency Medicine, University of Wisconsin-Madison" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
 
   {% include people_horizontal.html name="Pierre Dupont" affiliation="Staff Scientist, Professor of Surgery, Boston Children's Hospital, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
+  {% include people_horizontal.html name="Jaydev P. Desai" affiliation="Associate Director, Institute for Medical and Intelligent Machines, Director of Georgia Center for Medical Robotics" url="https://providers.ummhealth.org/ArnoSungarianMD/016678" img="/assets/img/people/arno_sungarian.jpg" %}
+
+  {% include people_horizontal.html name="Daniel Buckland" affiliation="Associate Professor, Department of Emergency Medicine, University of Wisconsin-Madison" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
+      
+  {% include people_horizontal.html name="Arno Sungarian" affiliation="Physician in Neurosurgery, Orthopedics, Spine Surgery (Back), and Spine Surgery (Neck)" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
+
   {% include people_horizontal.html name="Louise Jackson" affiliation="Assistant Professor of Surgery, Duke University" url="https://surgery.duke.edu/profile/katharine-louise-jackson" img="/assets/img/people/louise.jpg" %}
+
+  {% include people_horizontal.html name="Jihad Abdelgadir" affiliation="Assistant Professor at UNC School of Medicine, Department of Neurosurgery" url="https://health.usnews.com/doctors/jihad-abdelgadir-2422051" img="/assets/img/people/JihadAdbelgadir.jpg" %}
 
   {% include people_horizontal.html name="Scott Silva" affiliation="Associate Professor, Director of Brachytherapy, University of Louisville" url="https://louisville.edu/medicine/departments/radiationoncology/faculty/dr-scott-silva-m-d-ph-d" img="/assets/img/people/scott.jpg" %}
 
-  {% include people_horizontal.html name="Jaydev P. Desai" affiliation="Associate Director, Institute for Medical and Intelligent Machines, Director of Georgia Center for Medical Robotics" url="https://people.research.gatech.edu/jaydev-desai" img="/assets/img/people/jaydev_desai.jpg" %}
+  {% include people_horizontal.html name="Loris Fichera" affiliation="Associate Professor at Worcester Polytechnic Institute" url="https://www.wpi.edu/people/faculty/lfichera" img="/assets/img/people/loris_fiscera.jpg" %}
+
+  {% include people_horizontal.html name="Jie Ying Wu" affiliation="Assistant Professor at Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu/" img="/assets/img/people/Jie_Ying.jpg" %}
 
 </div>
 
