@@ -25,7 +25,7 @@ nav_order: 1
 | 14:30 | **Jie Ying Wu**: TBD|
 | 15:00 | **Jihad Abdelgadir**: TBD|
 | 15:30 | Coffee Break and Award Ceremony |
-| 15:45 | **Pane2:** New Experiences in Clinical Collaborations: Junior Faculty in Medical Robotics |
+| 15:45 | **Panel:** New Experiences in Clinical Collaborations: Junior Faculty in Medical Robotics |
 | 16:30 |  **Closing remarks by organizers**|
 {: .table}
 {: .table-striped}
