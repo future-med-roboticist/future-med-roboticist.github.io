@@ -21,7 +21,7 @@ Join us for a full day of exciting talks at the cutting edge of medical robotics
 ## Call for Extended Abstract Submission!
 We welcome submissions of extended abstracts describing published, recently accepted, or unpublished work relevant to medical robotics and the themes of the workshop. Submissions may present original research, educational initiatives, emerging technologies, or other work that contributes to the training and development of future medical roboticists.
 
-Extended abstracts must be **3 pages** in length and prepared using the **standard IEEE conference format**.
+Extended abstracts must not exceed **300 words** and prepared using the **standard IEEE conference format**.
 
 **Submission Deadline**: September 4, 2026
 
@@ -37,7 +37,7 @@ Topics of interest include, but are not limited to:
 
 Accepted abstracts will be presented as poster presentations during the workshop.
 
-Submission Link: Coming Soon!
+[***Submission Link***](https://tinyurl.com/TFMR2026Abstract)
 
 # Judge
 <div class="row row-cols-2 projects pt-3 pb-3">
