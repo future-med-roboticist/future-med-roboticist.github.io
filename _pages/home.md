@@ -51,11 +51,11 @@ Submission Link: Coming Soon!
 
   {% include people_horizontal.html name="Pierre Dupont" affiliation="Staff Scientist, Professor of Surgery, Boston Children's Hospital, Harvard Medical School" img="/assets/img/people/pierre.webp" url="https://research.childrenshospital.org/researchers/pierre-e-dupont" %}
 
-  {% include people_horizontal.html name="Jaydev P. Desai" affiliation="Associate Director, Institute for Medical and Intelligent Machines, Director of Georgia Center for Medical Robotics" url="https://providers.ummhealth.org/ArnoSungarianMD/016678" img="/assets/img/people/arno_sungarian.jpg" %}
+  {% include people_horizontal.html name="Jaydev P. Desai" affiliation="Associate Director, Institute for Medical and Intelligent Machines, Director of Georgia Center for Medical Robotics" url="https://people.research.gatech.edu/jaydev-desai" img="/assets/img/people/jaydev_desai.jpg" %}
 
   {% include people_horizontal.html name="Daniel Buckland" affiliation="Associate Professor, Department of Emergency Medicine, University of Wisconsin-Madison" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
       
-  {% include people_horizontal.html name="Arno Sungarian" affiliation="Physician in Neurosurgery, Orthopedics, Spine Surgery (Back), and Spine Surgery (Neck)" url="https://emed.wisc.edu/people/daniel-buckland/" img="/assets/img/people/dan.png"  %}
+  {% include people_horizontal.html name="Arno Sungarian" affiliation="Physician in Neurosurgery, Orthopedics, Spine Surgery (Back), and Spine Surgery (Neck)" url="https://providers.ummhealth.org/ArnoSungarianMD/016678" img="/assets/img/people/arno_sungarian.jpg"  %}
 
   {% include people_horizontal.html name="Louise Jackson" affiliation="Assistant Professor of Surgery, Duke University" url="https://surgery.duke.edu/profile/katharine-louise-jackson" img="/assets/img/people/louise.jpg" %}
 
