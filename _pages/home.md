@@ -5,7 +5,7 @@ home_title: <b>Training the Future Medical Roboticist @ IROS 2026</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: Pittsburgh - October 1st, 2026 | 8:30 AM - 5:30 PM EST (Full Day) 
+description: Pittsburgh - October 1st, 2026 | 8:00 AM - 5:30 PM EST (Full Day) 
 ---
 
 # Workshop Description
