@@ -41,7 +41,7 @@ Submission Link: Coming Soon!
 
 # Judge
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Melisa Yashinski, PhD" affiliation="Associate Editor, Science Robotics" url="https://www.science.org/journal/scirobotics" img="/assets/img/people/melisa.jpg"  %}
+  {% include people_horizontal.html name="Melisa Yashinski" affiliation="Associate Editor, Science Robotics" url="https://www.science.org/journal/scirobotics" img="/assets/img/people/melisa.jpg"  %}
 </div>
 
 # Speakers
