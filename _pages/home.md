@@ -5,7 +5,7 @@ home_title: <b>Training the Future Medical Roboticist @ IROS 2026</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: Pittsburgh Sept-2026, 8 hours (Full Day) 
+description: Pittsburgh October 1st, 2026 | 8:00 AM - 5:00 PM EST (Full Day) 
 ---
 
 # Workshop Description
@@ -18,8 +18,24 @@ In discussions of curricula structure, how to organize interdisciplinary experie
 
 Join us for a full day of exciting talks at the cutting edge of medical robotics!
 
-## Posters
-Poster idea submission details will be announced in the future. Poster judge will be Dr. Melisa Yashinski from Science Robotics, and awards are sponsored by Staubli Robotics.
+## Call for Abstract Submission!
+We welcome submissions of extended abstracts describing published, recently accepted, or unpublished work relevant to medical robotics and the themes of the workshop. Submissions may present original research, educational initiatives, emerging technologies, or other work that contributes to the training and development of future medical roboticists.
+
+Extended abstracts must be **3 pages** in length and prepared using the **standard IEEE conference format**.
+
+**Submission Deadline**: September 4, 2026
+**Acceptance Notification**: September 15, 2026
+
+Topics of interest include, but are not limited to:
+
+- Surgical Robotics and Emerging Robotic Technologies
+- Autonomy and Human-Robot Collaboration in Surgery
+- Medical Robotics Education, Training, and Skill Assessment
+- Simulation, Phantoms, and Hands-On Training for Surgical Robotics
+- Clinical Translation, Safety, and the Future of Surgical Robotics
+
+Accepted abstracts will be presented as poster presentations during the workshop.
+Submission Link: Coming Soon!
 
 # Judge
 <div class="row row-cols-2 projects pt-3 pb-3">
