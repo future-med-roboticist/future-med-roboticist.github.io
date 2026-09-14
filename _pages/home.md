@@ -23,9 +23,9 @@ We welcome submissions of extended abstracts describing published, recently acce
 
 Extended abstracts must not exceed **300 words** and prepared using the **standard IEEE conference format**.
 
-**Submission Deadline**: September 4, 2026
+**Submission Deadline**: ~~September 4, 2026~~ September 15, 2026
 
-**Acceptance Notification**: September 15, 2026
+**Acceptance Notification**: ~~September 15, 2026~~ September 20, 2026
 
 Topics of interest include, but are not limited to:
 
