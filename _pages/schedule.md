@@ -10,23 +10,25 @@ nav_order: 1
 | **Time (EST)**{: .h5} |  |
 | :-----:   | :----- |
 | 8:00| **Registration - Coffee and Poster Setup Time** |
-| 8:15| **Introduction (Welcome remarks by organizers)** |
-| 8:30 | **Simone Schurle-Finke** - From Bioinspired to Biohybrid Microrobots: Overcoming Challenges in Design, Control, and Tracking |
-| 9:00 | **Pierre E. Dupont**: Principles for Project Selection and Productive Clinician-Engineer Partnerships |
-| 9:30 | **Scott Silva**: Interdisciplinary and Interinstitutional Collaborations Between Medical Roboticists and Radiation Oncologists |
-| 10:00 | **Dan Buckland**: TBD|
-| 10:30 | **Louise Jackson**: TBD|
-| 11:00 | Coffee Break with Posters |
-| 11:15 | **Panel:** How to Approach a Surgeon: A Clinician's Perspective on Medical Robotics Research |
-| 12:00 | Lunch Break and Posters|
-| 13:00 | **Jaydev P. Desai**: TBD|
-| 13:30 | **Arno Sungarian**: The Road to Discovery |
-| 14:00 | **Loris Fichera**: Lost in Translation: Navigating the Gap Between Surgery and Engineering |
-| 14:30 | **Jie Ying Wu**: Building an Interdisciplinary Team for Translational Research |
-| 15:00 | **Jihad Abdelgadir**: TBD|
-| 15:30 | Coffee Break and Award Ceremony |
-| 15:45 | **Panel:** New Experiences in Clinical Collaborations: Junior Faculty in Medical Robotics |
-| 16:30 |  **Closing remarks by organizers**|
+| 8:30| **Introduction and example framework of Medical Robotics Education (NSF-NRT)** |
+| 8:55 | **Simone Schurle-Finke** - From Bioinspired to Biohybrid Microrobots: Overcoming Challenges in Design, Control, and Tracking |
+| 9:20 |  **Jihad Abdelgadir**: TBD |
+| 9:45 | **Jaydev P. Desai**: TBD |
+| 10:10 | **Scott Silva**: Interdisciplinary and Interinstitutional Collaborations Between Medical Roboticists and Radiation Oncologists |
+| 10:35 | Coffee Break and Posters |
+| 10:50 | **Loris Fichera**: Lost in Translation: Navigating the Gap Between Surgery and Engineering |
+| 11:15 | **Jie Ying Wu**: Building an Interdisciplinary Team for Translational Research |
+| 11:40 | **Panel:** How to Approach a Physician: A Clinician’s Perspective on Medical Robotics Research |
+| 12:15 | Lunch Break and Posters |
+| 13:15 | **Louise Jackson**: TBD |
+| 13:40 | **Pierre Dupont**: Principles for Project Selection and Productive Clinician-Engineer Partnerships |
+| 14:05 | **Dan Buckland**: Creating Constructive Collaborations with Clinicians in Medical Robotics |
+| 14:30 | **Arno Sungarian**: The Road to Discovery |
+| 14:55 | **Ryan McNabb**: TBD |
+| 15:20 | Coffee Break and Posters |
+| 15:45 | **Award Ceremony** |
+| 16:00 |  **Panel:** New Experiences in Clinical Collaborations: Junior Faculty in Medical Robotics |
+| 16:45 |  **Closing remarks by organizers**|
 {: .table}
 {: .table-striped}
 
