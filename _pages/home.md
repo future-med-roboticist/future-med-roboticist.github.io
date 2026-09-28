@@ -67,7 +67,7 @@ Accepted abstracts will be presented as poster presentations during the workshop
 
   {% include people_horizontal.html name="Jie Ying Wu, PhD" affiliation="Assistant Professor at Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu/" img="/assets/img/people/Jie_Ying.jpg" %}
 
-  {% include people_horizontal.html name="Ryan McNabb, MD" affiliation="Assistant Professor at Duke University" url="https://medschool.duke.edu/profile/ryan-mcnabb" img="/assets/img/people/ryan_mcnabb.jpg" %}
+  {% include people_horizontal.html name="Ryan McNabb, PhD" affiliation="Assistant Professor at Duke University" url="https://medschool.duke.edu/profile/ryan-mcnabb" img="/assets/img/people/ryan_mcnabb.jpg" %}
 
 </div>
 
