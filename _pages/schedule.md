@@ -24,7 +24,7 @@ nav_order: 1
 | 13:40 | **Pierre Dupont, PhD** - Principles for Project Selection and Productive Clinician-Engineer Partnerships |
 | 14:05 | **Dan Buckland, MD** - Creating Constructive Collaborations with Clinicians in Medical Robotics |
 | 14:30 | **Arno Sungarian, MD** - The Road to Discovery |
-| 14:55 | **Ryan McNabb, MD** - Opportunities and challenges when introducing robotics to ophthalmology: Bridging the gap between engineering trainees and clinicians |
+| 14:55 | **Ryan McNabb, PhD** - Opportunities and challenges when introducing robotics to ophthalmology: Bridging the gap between engineering trainees and clinicians |
 | 15:20 | Coffee Break and Posters |
 | 15:45 | **Award Ceremony** |
 | 16:00 |  **Panel:** New Experiences in Clinical Collaborations: Junior Faculty in Medical Robotics |
