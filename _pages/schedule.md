@@ -20,7 +20,7 @@ nav_order: 1
 | 11:15 | **Jie Ying Wu, PhD** - Building an Interdisciplinary Team for Translational Research |
 | 11:40 | **Panel:** How to Approach a Physician: A Clinician’s Perspective on Medical Robotics Research |
 | 12:15 | Lunch Break and Posters |
-| 13:15 | **Louise Jackson, MD** - Teaching Old Dogs New Tricks |
+| 13:15 | **Louise Jackson, MD** - A Multi-pronged Approach to Aligning New Technology with Teaching |
 | 13:40 | **Pierre Dupont, PhD** - Principles for Project Selection and Productive Clinician-Engineer Partnerships |
 | 14:05 | **Dan Buckland, MD** - Creating Constructive Collaborations with Clinicians in Medical Robotics |
 | 14:30 | **Arno Sungarian, MD** - The Road to Discovery |
